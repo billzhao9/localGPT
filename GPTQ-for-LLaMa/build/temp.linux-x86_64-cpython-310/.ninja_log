@@ -1,0 +1,3 @@
+# ninja log v5
+4	31884	1685662843375464100	/mnt/e/AIProject/localGPT/GPTQ-for-LLaMa/build/temp.linux-x86_64-cpython-310/quant_cuda.o	db8a733949731ef7
+4	60308	1685662871808068700	/mnt/e/AIProject/localGPT/GPTQ-for-LLaMa/build/temp.linux-x86_64-cpython-310/quant_cuda_kernel.o	6b3f970120786677
